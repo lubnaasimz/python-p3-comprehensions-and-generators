@@ -34,3 +34,4 @@ class TestMakeExclamation:
             "I require coffee!",
             "Live long and prosper!",
         ])
+        
